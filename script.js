@@ -1,2 +1,2 @@
-alert ("Esta es la nueva pagina web")
-console.log("hola")
+alert ("Bienvenidos a un nuevo proyecto")
+console.log("Hola a la nueva pagina")
